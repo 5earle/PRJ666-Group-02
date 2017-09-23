@@ -1,0 +1,14 @@
+#log{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+#logCombo{
+ -fx-background-color: black;
+}
+#logPane{
+-fx-background-color: #4682B4;
+}
+#logmail{
+  -fx-background-color:green;
+}
+
